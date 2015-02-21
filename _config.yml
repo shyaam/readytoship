@@ -1,11 +1,11 @@
 # Site settings
-title: Clean Blog
+title: Ready to Ship
 header-img: img/home-bg.jpg
 email: hello@shyaamdeshmukh.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "/readytoship"
 url: "http://www.shyaamdeshmukh.com"
-twitter_username: Shyaam
+twitter_username: shyaam
 github_username:  shyaam
 facebook_username:  shyaam.deshmukh
 
