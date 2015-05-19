@@ -1,9 +1,9 @@
 # Site settings
-title: Ready to Ship
+title: घन:श्याम देशमुख
 header-img: img/home-bg.jpg
 email: hello@shyaamdeshmukh.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/readytoship"
+baseurl: "/"
 url: "http://www.shyaamdeshmukh.com"
 twitter_username: shyaam
 github_username:  shyaam
